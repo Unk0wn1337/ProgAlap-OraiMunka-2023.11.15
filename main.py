@@ -1,0 +1,16 @@
+import feladatok
+# eredmeny:int = feladatok.elsoFeladat(5,10)
+# print(f"A páros számok: {eredmeny}")
+# kettesEredmeny = feladatok.negativ()
+# print(f"Negativak szama: {kettesEredmeny}")
+# parosSzamok = feladatok.parosKetto(10,20)
+# print(f"Paros szamok {parosSzamok}")
+# szam = feladatok.veletlenSzamokTizenkettoHarmincharom()
+# print(f"Veleten szamok osszege {szam}")
+# legnagyobb = feladatok.legnagyobbSzam()
+# print(f"Legnagyobb szám {legnagyobb}")
+# szam = feladatok.bekeresHarom()
+# print(f"Az átlag {szam}")
+szam = feladatok.bekeresAtlag()
+print(f"Az átlag {szam}")
+
